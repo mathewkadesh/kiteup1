@@ -1,0 +1,141 @@
+.headingText{
+font-size: 50px;
+font-weight: 700;
+line-height: 1.2;
+color: white;
+}
+.landingRow{
+  background-color: #27283d;
+  padding: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+  margin: 0;
+}
+.landingImg{
+  max-width: 100%;
+  height: auto;
+}
+.serviceImage{
+    width: 100px;
+    align-self: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.service-card{
+  height: 300px;
+  transition: transform 0.3s, box-shadow 0.3s, cursor 0.3s;
+  cursor: pointer;
+}
+
+.service-card:hover {
+  transform: scale(1.05); /* Scales up the card */
+  box-shadow: 0 0 10px #0077b6; /* Changes shadow color to blue */
+  cursor: pointer; /* Changes cursor to a grabbing hand */
+}
+.contactImg{
+    width: 30px;
+    align-self: center;
+    margin: 10px;
+}
+
+.contactCard{
+    height: 200px;
+}
+
+.aboutImage{
+    width: 350px;
+    align-self: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    transform: rotate(5deg);
+}
+
+.aboutImageBg {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .aboutImageBg::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 330px;
+    height: 100%;
+    border-radius: 5px;
+    background-color: #8ecae6; /* Change color as needed */
+    z-index: -1; /* Send it to the back */
+  }
+  
+  .aboutImageBg img {
+    display: block;
+    max-width: 100%;
+  }
+  
+  /* Adjust styles as needed */
+.client-logos-carousel {
+  margin: 20px auto;
+  max-width: 80%;
+}
+
+.client-logos-carousel img {
+  width: 60px; /* Adjust logo size */
+  margin: 0 auto;
+}
+
+.client-logos-carousel p {
+  text-align: center;
+}
+.rounded-hr {
+  border: none;
+  border-top: 2px solid #ccc;
+  border-radius: 10px;
+  width: 80%; /* Adjust the width as needed */
+  margin: 20px auto;
+}
+.vertical-line {
+  width: 2px; /* Width of the line */
+  height: 100%; /* Height of the line */
+  background-color: #ccc; /* Line color */
+  border-radius: 1px; /* Half of the width for rounded edges */
+  margin: 0 auto; /* Center the line horizontally */
+}
+.quoteImg{
+  padding: 50px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.blog-image {
+  width: 100%;
+  height: 180px; /* Adjust image height */
+  background-size: cover;
+  background-position: center;
+}
+
+.limited-text {
+  max-width: 100%; /* Adjust the width as needed */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* .blogCard{
+  max-height: 550px;
+} */
+.icon-wrapper {
+  display: inline-block;
+  transition: transform 0.3s ease-in-out;
+}
+
+.icon-wrapper:hover {
+  transform: scale(1.3); /* Increase the size by 10% */
+}
+
+.serviceModelDiv{
+  padding: 10px;
+  text-align: justify;
+}

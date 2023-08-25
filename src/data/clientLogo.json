@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Adobe",
+      "logo": "./res/clientLogos/adobe.png"
+    },
+    {
+      "id": 2,
+      "name": "Cure Curl",
+      "logo": "./res/clientLogos/astrazeneca.png"
+    },
+    {
+      "id": 3,
+      "name": "Blackberry",
+      "logo": "./res/clientLogos/blackberry.png"
+    },
+    {
+      "id": 4,
+      "name": "Johnson & Johnson",
+      "logo": "./res/clientLogos/johnson-and-johnson.png"
+    },
+    {
+      "id": 5,
+      "name": "Microsoft",
+      "logo": "./res/clientLogos/microsoft.png"
+    },
+    {
+      "id": 6,
+      "name": "Rambo",
+      "logo": "./res/clientLogos/rambo.png"
+    },
+    {
+      "id": 7,
+      "name": "Social",
+      "logo": "./res/clientLogos/social.png"
+    },
+    {
+      "id": 8,
+      "name": "Swarm",
+      "logo": "./res/clientLogos/swarm.png"
+    },
+    {
+      "id": 9,
+      "name": "Visa",
+      "logo": "./res/clientLogos/visa.png"
+    }
+  ]

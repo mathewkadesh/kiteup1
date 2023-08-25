@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Ultimate React Router v6 Guide",
+    "image": "./blog/blog1.jpeg",
+    "content": "React Router is the most popular routing library in React, but it can be a bit complicated to wrap your head around some of the more complex features. ",
+    "url": "https://blog.webdevsimplified.com/2022-07/react-router/"
+  },
+  {
+    "id": 2,
+    "title": "Top React Animation Libraries",
+    "image": "./blog/blog2.png",
+    "content": "In the realm of web application user interfaces, there exists a plethora of elements aimed at captivating users. ",
+    "url": "https://medium.com/@kumar.aayush04/top-react-animation-libraries-elevate-your-web-design-with-these-picks-1b9e32b1976f"
+  },
+  {
+    "id": 3,
+    "title": "Use RTK Query for API Calls",
+    "image": "./blog/blog3.png",
+    "content": "The RTK Query part of the Redux Essentials tutorial is phenomenal, but since it’s part of a much larger suite of documentation.",
+    "url": "https://medium.com/codex/why-i-use-rtk-query-for-api-calls-in-react-fee9e2a4538"
+  },
+  {
+    "id": 4,
+    "title": "Designing User-Centric Interfaces",
+    "image": "./blog/blog4.jpeg",
+    "content": "Learn the principles of UI/UX design and create interfaces that engage and delight users.",
+    "url": "./res/web1.png"
+  }
+]
