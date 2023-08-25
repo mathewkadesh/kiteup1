@@ -20,8 +20,8 @@ function Service()  {
 
 
   return (
-    <Container className="my-5">
-      <h2 className="text-center mb-4">Our Expertise</h2>
+    <div style={{backgroundColor:'#27283d', padding:'30px'}}>
+      <h2 className="text-center text-white mb-4">Our Expertise</h2>
       <Row>
         {servicesData.map((service)=>(
 
@@ -61,7 +61,7 @@ function Service()  {
           </Modal.Body>
    
       </Modal>
-    </Container>
+    </div>
   );
 };
 

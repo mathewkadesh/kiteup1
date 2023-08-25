@@ -65,13 +65,13 @@ export default function ContactForm() {
   }
 
   return (
-    <Container className="my-5">
+    <div style={{backgroundColor:'#27283d', padding:'30px'}}>
       <Row>
         <Col md={6}>
-      <h2>Get a Quote</h2>
+      <h2 className='text-white'>Get a Quote</h2>
       <Form >
         <Form.Group controlId="name">
-          <Form.Label>Name</Form.Label>
+          <Form.Label className='text-white'>Name</Form.Label>
           <Form.Control
             type="text"
             name="name"
@@ -81,7 +81,7 @@ export default function ContactForm() {
           />
         </Form.Group>
         <Form.Group controlId="email" className='mt-3'>
-          <Form.Label>Email</Form.Label>
+          <Form.Label className='text-white'>Email</Form.Label>
           <Form.Control
             type="email"
             name="email"
@@ -91,7 +91,7 @@ export default function ContactForm() {
           />
         </Form.Group>
         <Form.Group controlId="subject" className='mt-3'>
-          <Form.Label>Subject</Form.Label>
+          <Form.Label className='text-white'>Subject</Form.Label>
           <Form.Control
             type="text"
             name="subject"
@@ -101,7 +101,7 @@ export default function ContactForm() {
           />
         </Form.Group>
         <Form.Group controlId="message" className='mt-3'>
-          <Form.Label>Project Details</Form.Label>
+          <Form.Label className='text-white'>Project Details</Form.Label>
           <Form.Control
             as="textarea"
             rows={4}
@@ -123,7 +123,7 @@ export default function ContactForm() {
         <img src='./res/quote.jpg' className='quoteImg'/>
         </Col>
       </Row>
-    </Container>
+    </div>
     // <div>
     //   <section className="bg-white dark:bg-gray-900">
     //     <div className="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">

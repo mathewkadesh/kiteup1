@@ -35,11 +35,11 @@ const ClientLogosCarousel = () => {
   };
 
   return (
-    <div className="client-logos-carousel">
+    <div className="client-logos-carousel" >
       <h2 style={{textAlign:'center', marginBottom:'30px'}}>Our Clients</h2>
       <Slider {...settings}>
         {clientsData.map((client) => (
-          <div key={client.id}>
+          <div key={client.id} >
             <img src={client.logo} alt={client.name} />
             <p>{client.name}</p>
           </div>

@@ -76,10 +76,7 @@ color: white;
   }
   
   /* Adjust styles as needed */
-.client-logos-carousel {
-  margin: 20px auto;
-  max-width: 80%;
-}
+
 
 .client-logos-carousel img {
   width: 60px; /* Adjust logo size */
@@ -138,4 +135,8 @@ color: white;
 .serviceModelDiv{
   padding: 10px;
   text-align: justify;
+}
+.client-logos-carousel {
+  margin: 20px auto;
+  max-width: 80%; 
 }
