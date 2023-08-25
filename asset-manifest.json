@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kiteup1/static/css/main.cd5cca25.css",
+    "main.js": "/kiteup1/static/js/main.99a2d632.js",
+    "static/js/787.b1cac4a9.chunk.js": "/kiteup1/static/js/787.b1cac4a9.chunk.js",
+    "static/media/social-media.png": "/kiteup1/static/media/social-media.3b9e8710fdf65a16d991.png",
+    "static/media/customer-support.png": "/kiteup1/static/media/customer-support.be469c3d0213ba3ed721.png",
+    "static/media/mail.png": "/kiteup1/static/media/mail.cb301702ddbb93afc5a8.png",
+    "static/media/location.png": "/kiteup1/static/media/location.9da04f99819fbdc52b40.png",
+    "static/media/slick.svg": "/kiteup1/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/kiteup1/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/kiteup1/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/kiteup1/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/kiteup1/index.html",
+    "main.cd5cca25.css.map": "/kiteup1/static/css/main.cd5cca25.css.map",
+    "main.99a2d632.js.map": "/kiteup1/static/js/main.99a2d632.js.map",
+    "787.b1cac4a9.chunk.js.map": "/kiteup1/static/js/787.b1cac4a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5cca25.css",
+    "static/js/main.99a2d632.js"
+  ]
+}
